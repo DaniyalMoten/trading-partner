@@ -1,0 +1,115 @@
+{
+  "timestamp": "2026-10-28 14:56:06",
+  "assets": {
+    "Gold (XAUUSD)": {
+      "name": "Gold (XAUUSD)",
+      "source": "Institutional Spot Feed",
+      "current_price": 4068.8,
+      "pdh": 4079.4,
+      "pdl": 4001.6,
+      "vah": 4056.06,
+      "val": 4024.94,
+      "poc": 4051.87,
+      "fib_618": 4052.59,
+      "fib_786": 4066.45
+    },
+    "EURUSD": {
+      "name": "EURUSD",
+      "source": "Institutional Spot Feed",
+      "current_price": 1.11272,
+      "pdh": 1.11782,
+      "pdl": 1.11361,
+      "vah": 1.11656,
+      "val": 1.11487,
+      "poc": 1.11627,
+      "fib_618": 1.11867,
+      "fib_786": 1.12056
+    },
+    "NASDAQ (US100)": {
+      "name": "NASDAQ (US100)",
+      "source": "Institutional Spot Feed",
+      "current_price": 29929.75,
+      "pdh": 29881.25,
+      "pdl": 29288.0,
+      "vah": 29703.28,
+      "val": 29465.97,
+      "poc": 29660.42,
+      "fib_618": 29620.62,
+      "fib_786": 29782.74
+    }
+  },
+  "news": [
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "GBP",
+      "title": "Annual Budget Release",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "impact": "Medium",
+      "time": "All Day",
+      "country": "GBP",
+      "title": "Autumn Forecast Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "CAD",
+      "title": "BOC Monetary Policy Report",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "CAD",
+      "title": "BOC Rate Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "CAD",
+      "title": "Overnight Rate",
+      "forecast": "2.50%",
+      "previous": "2.25%"
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "CAD",
+      "title": "BOC Press Conference",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "USD",
+      "title": "Federal Funds Rate",
+      "forecast": "4.00%",
+      "previous": "4.00%"
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "USD",
+      "title": "FOMC Statement",
+      "forecast": "",
+      "previous": ""
+    },
+    {
+      "impact": "High",
+      "time": "All Day",
+      "country": "USD",
+      "title": "FOMC Press Conference",
+      "forecast": "",
+      "previous": ""
+    }
+  ]
+}

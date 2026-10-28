@@ -1,0 +1,24 @@
+{
+  "name": "ai-trading-partner",
+  "version": "1.0.0",
+  "description": "Institutional AI Trading Co-Pilot for XM Forex & Gold traders with live macro, Value Area, Fib OTE, and SMC analysis.",
+  "author": "Antigravity Trader",
+  "main": "SKILL.md",
+  "keywords": [
+    "forex",
+    "trading",
+    "gold",
+    "xauusd",
+    "xm",
+    "smc",
+    "value-area",
+    "nasdaq"
+  ],
+  "skills": [
+    {
+      "name": "ai-trading-partner",
+      "path": "SKILL.md",
+      "description": "Daily institutional trade planner, market analyzer, and live debate partner for Gold (XAUUSD), EURUSD, and NASDAQ."
+    }
+  ]
+}
